@@ -1,0 +1,15 @@
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\bin\Debug\netcoreapp3.1\BloggProject.Business.deps.json
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\bin\Debug\netcoreapp3.1\BloggProject.Business.dll
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\bin\Debug\netcoreapp3.1\BloggProject.Business.pdb
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\bin\Debug\netcoreapp3.1\BloggProject.DataAccess.dll
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\bin\Debug\netcoreapp3.1\BloggProject.Entities.dll
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\bin\Debug\netcoreapp3.1\BloggProject.DataAccess.pdb
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\bin\Debug\netcoreapp3.1\BloggProject.Entities.pdb
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\obj\Debug\netcoreapp3.1\BloggProject.Business.csproj.AssemblyReference.cache
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\obj\Debug\netcoreapp3.1\BloggProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\obj\Debug\netcoreapp3.1\BloggProject.Business.AssemblyInfoInputs.cache
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\obj\Debug\netcoreapp3.1\BloggProject.Business.AssemblyInfo.cs
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\obj\Debug\netcoreapp3.1\BloggProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\obj\Debug\netcoreapp3.1\BloggProject.Business.csproj.CopyComplete
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\obj\Debug\netcoreapp3.1\BloggProject.Business.dll
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Business\obj\Debug\netcoreapp3.1\BloggProject.Business.pdb

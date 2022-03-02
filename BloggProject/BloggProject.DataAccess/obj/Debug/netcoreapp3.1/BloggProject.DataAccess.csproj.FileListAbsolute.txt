@@ -1,0 +1,16 @@
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\bin\Debug\netcoreapp3.1\BloggProject.DataAccess.deps.json
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\bin\Debug\netcoreapp3.1\BloggProject.DataAccess.runtimeconfig.json
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\bin\Debug\netcoreapp3.1\BloggProject.DataAccess.runtimeconfig.dev.json
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\bin\Debug\netcoreapp3.1\BloggProject.DataAccess.dll
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\bin\Debug\netcoreapp3.1\BloggProject.DataAccess.pdb
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\bin\Debug\netcoreapp3.1\BloggProject.Entities.dll
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\bin\Debug\netcoreapp3.1\BloggProject.Entities.pdb
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\obj\Debug\netcoreapp3.1\BloggProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\obj\Debug\netcoreapp3.1\BloggProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\obj\Debug\netcoreapp3.1\BloggProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\obj\Debug\netcoreapp3.1\BloggProject.DataAccess.AssemblyInfo.cs
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\obj\Debug\netcoreapp3.1\BloggProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\obj\Debug\netcoreapp3.1\BloggProject.DataAccess.csproj.CopyComplete
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\obj\Debug\netcoreapp3.1\BloggProject.DataAccess.dll
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\obj\Debug\netcoreapp3.1\BloggProject.DataAccess.pdb
+C:\Users\ireem\source\repos\BloggProject\BloggProject.DataAccess\obj\Debug\netcoreapp3.1\BloggProject.DataAccess.genruntimeconfig.cache

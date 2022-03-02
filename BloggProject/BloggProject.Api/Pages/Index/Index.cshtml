@@ -1,0 +1,52 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div classs="card-body">
+    <table class="table-bordered" id="Table">
+        <tr>
+            <th> Phone </th>
+            <th> About </th>
+        </tr>
+    </table>
+
+  <h1>Onget metodundan gelen deger</h1>
+    @Model.message
+</div>
+@section scripts{ 
+<script src="/Pages/Index/Index.js"></script>
+}
+<script>
+    $(document).ready(function () {
+        //var uri = "https://localhost:44304/api/profile";
+        //console.log("uri", uri)
+        debugger;
+        $.ajax({          
+            url: "https://localhost:44304/api/profile",
+            type: "GET",
+            contentType: "application/json;charset-utf-8",
+            dataType:"json",
+            success: function (res) {
+                console.log("data2", res);
+                $.each(res, function (i, item) {                   
+                    var rows = "<tr>" +
+                        "<td id='phone'>" + item.phone + "</td>" +
+                        "<td id='about'>" + item.about + "</td>" +
+                        "</tr>";
+                    $('#Table').append(rows);
+                })
+               
+            }
+
+        });
+
+    });
+</script>

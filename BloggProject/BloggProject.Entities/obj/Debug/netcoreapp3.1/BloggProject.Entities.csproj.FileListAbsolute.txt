@@ -1,0 +1,10 @@
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Entities\bin\Debug\netcoreapp3.1\BloggProject.Entities.deps.json
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Entities\bin\Debug\netcoreapp3.1\BloggProject.Entities.dll
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Entities\bin\Debug\netcoreapp3.1\BloggProject.Entities.pdb
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Entities\obj\Debug\netcoreapp3.1\BloggProject.Entities.csproj.AssemblyReference.cache
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Entities\obj\Debug\netcoreapp3.1\BloggProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Entities\obj\Debug\netcoreapp3.1\BloggProject.Entities.AssemblyInfoInputs.cache
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Entities\obj\Debug\netcoreapp3.1\BloggProject.Entities.AssemblyInfo.cs
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Entities\obj\Debug\netcoreapp3.1\BloggProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Entities\obj\Debug\netcoreapp3.1\BloggProject.Entities.dll
+C:\Users\ireem\source\repos\BloggProject\BloggProject.Entities\obj\Debug\netcoreapp3.1\BloggProject.Entities.pdb
